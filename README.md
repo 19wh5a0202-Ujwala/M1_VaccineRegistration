@@ -1,16 +1,5 @@
 # M1_VaccineRegistration
 ## About the code
-| Codacy | Code Inspector | CI | Unity |
-| --- | --- | --- | --- |
-| [![Codacy Badge] | 
-![Code Quality Score] |![Code Grade](https://www.code-inspector.com/project/28301/status/svg) |
-[![C/C++ CI](https://github.com/19wh5a0202-Ujwala/M1_VaccineRegistration/actions/workflows/c-build.yml/badge.svg)]
-(https://github.com/19wh5a0202-Ujwala/M1_VaccineRegistration/actions/workflows/c-build.yml) 
-[![CI](https://github.com/19wh5a0202-Ujwala/M1_VaccineRegistration/actions/workflows/main.yml/badge.svg)]
-(https://github.com/19wh5a0202-Ujwala/M1_VaccineRegistration/actions/workflows/main.yml) | [![Unit Testing - Unity]
-(https://github.com/19wh5a0202-Ujwala/M1_VaccineRegistration/actions/workflows/c-build.yml/badge.svg)]
-(https://github.com/19wh5a0202-Ujwala/M1_VaccineRegistration/actions/workflows/c-build.yml)|
-
 
 ## Aim
 * Smoother vaccination registration process
