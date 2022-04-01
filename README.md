@@ -1,13 +1,10 @@
 # M1_VaccineRegistration
 ## About the code
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/3b20c7c3ec7f4734b42cc0d04dcf3fb2)](https://app.codacy.com/gh/19wh5a0202-Ujwala/M1_VaccineRegistration/dashboard)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/3b20c7c3ec7f4734b42cc0d04dcf3fb2)](https://app.codiga.io/public/project/32336/M1_VaccineRegistration/dashboard)
 |Build|Unit Test|cppcheck|Codacy|
 |:--:|:--:|:--:|:--:|
-|![C/C++ CI]
-(https://github.com/19wh5a0202-Ujwala/M1_VaccineRegistration/actions/workflows/c-build.yml/badge.svg)|![Unit Testing]
-(https://github.com/19wh5a0202-Ujwala/M1_VaccineRegistration/actions/workflows/c-build.yml/badge.svg) |![cppcheck-action]
-(https://github.com/19wh5a0202-Ujwala/M1_VaccineRegistration/actions/workflows/c-build.yml/badge.svg) |[![Codacy Badge](https://app.codacy.com/project/badge/Grade/3ac7e2a959a24fa4b5d1b9c1c886ff75)](https://www.codacy.com/manual/stepin654321/MiniProject_Template?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=stepin654321/MiniProject_Template&amp;utm_campaign=Badge_Grade)|
+|![C/C++ CI](https://github.com/stepin654321/MiniProject_Template/workflows/C/C++%20CI/badge.svg)|[![Unit Testing](https://github.com/19wh5a0202-Ujwala/M1_VaccineRegistration/actions/workflows/c-build.yml/badge.svg)](https://github.com/19wh5a0202-Ujwala/M1_VaccineRegistration/actions/workflows/c-build.yml)|[![CppCheck](https://github.com/19wh5a0202-Ujwala/M1_VaccineRegistration/actions/workflows/c-build.yml/badge.svg)](https://github.com/19wh5a0202-Ujwala/M1_VaccineRegistration/actions/workflows/c-build.yml)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/3ac7e2a959a24fa4b5d1b9c1c886ff75)](https://app.codiga.io/public/project/32336/M1_VaccineRegistration/dashboard)|
 
 
 
