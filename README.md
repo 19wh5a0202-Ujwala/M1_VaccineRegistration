@@ -1,6 +1,7 @@
 # M1_VaccineRegistration
 ## About the code
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/b484ad37870247a8b79c6352c4dbd231)](https://app.codacy.com/gh/19wh5a0202-Ujwala/M1_VaccineRegistration?utm_source=github.com&utm_medium=referral&utm_content=19wh5a0202-Ujwala/M1_VaccineRegistration&utm_campaign=Badge_Grade_Settings)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/eaaf0ce5b49b4983a6ef55de97a710f2)](https://www.codacy.com/gh/19wh5a0202-Ujwala/M1_VaccineRegistration/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=19wh5a0202-Ujwala/M1_VaccineRegistration&amp;utm_campaign=Badge_Grade)
 
 
