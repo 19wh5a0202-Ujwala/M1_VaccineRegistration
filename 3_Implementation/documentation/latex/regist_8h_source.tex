@@ -1,0 +1,32 @@
+\hypertarget{regist_8h_source}{}\doxysection{regist.\+h}
+\label{regist_8h_source}\index{C:/Users/K.UJAWALA/Desktop/L\&T/M1\_VaccineRegistration/3\_Implementation/inc/regist.h@{C:/Users/K.UJAWALA/Desktop/L\&T/M1\_VaccineRegistration/3\_Implementation/inc/regist.h}}
+
+\begin{DoxyCode}{0}
+\DoxyCodeLine{1 \textcolor{preprocessor}{\#ifndef REGIST\_C}}
+\DoxyCodeLine{2 \textcolor{preprocessor}{\#define REGIST\_C}}
+\DoxyCodeLine{3 }
+\DoxyCodeLine{4  \textcolor{comment}{// Checks for registration details of new patients}}
+\DoxyCodeLine{5 \textcolor{keywordtype}{int} regist\_status(\textcolor{keywordtype}{long} pd );}
+\DoxyCodeLine{6 }
+\DoxyCodeLine{7 \textcolor{comment}{// Checks details from the pre registered patients}}
+\DoxyCodeLine{8 \textcolor{keywordtype}{int} existregist();}
+\DoxyCodeLine{9 }
+\DoxyCodeLine{10 \textcolor{comment}{// Checks how many doses should be given}}
+\DoxyCodeLine{11 \textcolor{keywordtype}{int} vaccine\_status(\textcolor{keywordtype}{int} );}
+\DoxyCodeLine{12 }
+\DoxyCodeLine{13 \textcolor{comment}{// Structure that stores all details of a patient}}
+\DoxyCodeLine{14 \textcolor{keyword}{typedef} \textcolor{keyword}{struct }\mbox{\hyperlink{structpatient}{patient}}\{}
+\DoxyCodeLine{15     \textcolor{keywordtype}{int} age;}
+\DoxyCodeLine{16     \textcolor{keywordtype}{long} aadhar;}
+\DoxyCodeLine{17     \textcolor{keywordtype}{int} ph\_number;}
+\DoxyCodeLine{18     \textcolor{keywordtype}{int} secret\_code;}
+\DoxyCodeLine{19     \textcolor{keywordtype}{int} vaccine\_type;}
+\DoxyCodeLine{20     \textcolor{keywordtype}{int} vaccine\_doses;}
+\DoxyCodeLine{21 \}\mbox{\hyperlink{structpatient}{patient\_details}};}
+\DoxyCodeLine{22 }
+\DoxyCodeLine{23 \textcolor{comment}{// variable pd that stores details of upto 1000 patients}}
+\DoxyCodeLine{24 \mbox{\hyperlink{structpatient}{patient\_details}} pd[1000];}
+\DoxyCodeLine{25 }
+\DoxyCodeLine{26 \textcolor{preprocessor}{\#endif}}
+
+\end{DoxyCode}
