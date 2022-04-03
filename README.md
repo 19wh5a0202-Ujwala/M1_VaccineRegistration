@@ -1,10 +1,12 @@
 # M1_VaccineRegistration
 ## About the code
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/3b20c7c3ec7f4734b42cc0d04dcf3fb2)](https://app.codiga.io/public/project/32336/M1_VaccineRegistration/dashboard)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/eaaf0ce5b49b4983a6ef55de97a710f2)](https://www.codacy.com/gh/19wh5a0202-Ujwala/M1_VaccineRegistration/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=19wh5a0202-Ujwala/M1_VaccineRegistration&amp;utm_campaign=Badge_Grade)
+
+
 |Build|Unit Test|cppcheck|Codacy|
 |:--:|:--:|:--:|:--:|
-|[![C/C++ CI](https://github.com/19wh5a0202-Ujwala/M1_VaccineRegistration/actions/workflows/c-build.yml/badge.svg)](https://github.com/19wh5a0202-Ujwala/M1_VaccineRegistration/actions/workflows/c-build.yml)|[![Unit Testing](https://github.com/19wh5a0202-Ujwala/M1_VaccineRegistration/actions/workflows/c-build.yml/badge.svg)](https://github.com/19wh5a0202-Ujwala/M1_VaccineRegistration/actions/workflows/c-build.yml)|[![CppCheck](https://github.com/19wh5a0202-Ujwala/M1_VaccineRegistration/actions/workflows/c-build.yml/badge.svg)](https://github.com/19wh5a0202-Ujwala/M1_VaccineRegistration/actions/workflows/c-build.yml)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/3ac7e2a959a24fa4b5d1b9c1c886ff75)](https://app.codiga.io/public/project/32336/M1_VaccineRegistration/dashboard)|
+|[![C/C++ CI](https://github.com/19wh5a0202-Ujwala/M1_VaccineRegistration/actions/workflows/c-build.yml/badge.svg)](https://github.com/19wh5a0202-Ujwala/M1_VaccineRegistration/actions/workflows/c-build.yml)|[![Unit Testing](https://github.com/19wh5a0202-Ujwala/M1_VaccineRegistration/actions/workflows/c-build.yml/badge.svg)](https://github.com/19wh5a0202-Ujwala/M1_VaccineRegistration/actions/workflows/c-build.yml)|[![CppCheck](https://github.com/19wh5a0202-Ujwala/M1_VaccineRegistration/actions/workflows/c-build.yml/badge.svg)](https://github.com/19wh5a0202-Ujwala/M1_VaccineRegistration/actions/workflows/c-build.yml)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/eaaf0ce5b49b4983a6ef55de97a710f2)](https://www.codacy.com/gh/19wh5a0202-Ujwala/M1_VaccineRegistration/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=19wh5a0202-Ujwala/M1_VaccineRegistration&amp;utm_campaign=Badge_Grade)|
 
 
 
